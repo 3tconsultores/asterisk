@@ -1,12 +1,12 @@
 # asterisk
 Asterisk PBX Projects
 
-GIT branch : VENEZUELA CEMIDA : VOIP PBX FXO
+GIT branch : CEMIDA : VOIP PBX FXO
 
-GIT branch : MEXICO ABANET    : INTERNET VOIP CALLS
+GIT branch : ABANET : IAX MEXICO
 
 GIT branch : GERMANY
 
 GIT branch : NEMESIS : VOIP PBX FXS
 
-GIT branch E1
+GIT branch : E1
