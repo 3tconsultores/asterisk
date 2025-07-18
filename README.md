@@ -7,4 +7,4 @@ IAX MEXICO   : GIT branch ABANET
 
 VOIP PBX FXS : GIT branch NEMESIS
 
-ISD          : DE
+ISDN          : DE
