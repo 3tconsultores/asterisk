@@ -1,2 +1,0 @@
-# asterisk
-Asterisk PBX
